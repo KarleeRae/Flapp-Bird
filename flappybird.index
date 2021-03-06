@@ -27,8 +27,8 @@
 <p>
 <a href="https://discord.gg/mrsPFD4kpD">JOIN THE DISCORD</a>
 </p>
-<canvas id="myCanvas" width=1350 height=580 
- style="background:url('http://s2js.com/img/etc/flappyback.png');  background-size: 100%; height: 100% " 
+<canvas id="myCanvas" width=320 height=480 
+ style="background:url('http://s2js.com/img/etc/flappyback.png');  background-size: 100%; height: 95% " 
 </canvas>
     <h3> <i onclick="myFunction(this)" class="fa fa-thumbs-up"></i></h3>
 <script> 

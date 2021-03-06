@@ -14,16 +14,19 @@
  <style>
  #div1 {
   font-size:48px; }
-     body { background-color: #721bc4 ; font-family: 'Pacifico'; }
-     h1{ background-color: #a666e3 ; text-shadow:5px 5px 5px  #dfd2ec ; text-align:center;}
+     body { background-color: #008080 ; font-family: 'Pacifico'; }
+     h1{ background-color: #008080 ; text-shadow:5px 5px 5px  #dfd2ec ; text-align:center;}
      canvas{ animation: mymove 5s infinite;  border: 5px solid   #0a3cda  ; border-style:dotted; border-radius: 15px 50px; }
      @keyframes mymove {
     50% {box-shadow: 10px 20px 30px blue;} }
      h3{ font-family:'Permanent Marker'; }
  </style> 
  <body>
-     <h1><b>Flappy Bird !!! (game) <div id="div1" class="fa"></div> </b></h1>
-     <h3><b>If you want to have a very high score. Think out of this game !!  ~_^ <hr> and tell me your high score </b></h3>
+     <h1><b>Flapp Bird !!! (game) <div id="div1" class="fa"></div> </b></h1>
+     <h3><b>If you want to have a very high score. Think out of this game !!  ~_^ <hr> and tell me your high score Join Rae's Coding World To Talk And Show your work</b></h3>
+<p>
+<a href="https://discord.gg/mrsPFD4kpD">JOIN THE DISCORD</a>
+</p>
 <canvas id="myCanvas" width=320 height=480 
  style="background:url('http://s2js.com/img/etc/flappyback.png');  background-size: 100%; height: 95% " 
 </canvas>
